@@ -1,7 +1,9 @@
 # Calculator_in_Python
 
 1.The code defines a simple calculator GUI using the Tkinter library in Python.
+
 2.The calculator GUI has a display area to show the input expression and results.
+
 3.Numeric buttons (0-9) and arithmetic operation buttons (+, -, *, /) are defined.
 4.Other buttons include '.', '=', and 'C' (for clearing the input).
 5.When numeric or arithmetic buttons are pressed, their corresponding values are added to the expression on the display.
